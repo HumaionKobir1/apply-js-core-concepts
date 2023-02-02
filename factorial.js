@@ -25,7 +25,7 @@ console.log(result);
 
 
 
-// Another way
+// Another way for Recursion
 
 
 function factorialize (num){
