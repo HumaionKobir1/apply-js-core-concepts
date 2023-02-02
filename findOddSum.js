@@ -42,3 +42,4 @@ console.log(oddNumbers);
 
 const oddNumberSum = getSumOfAnArray (oddNumbers);
 console.log(oddNumberSum);
+
